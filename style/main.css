@@ -63,6 +63,10 @@ header nav a:hover{
     
 }
 
+.filme-trailler{
+    margin-top: 5%;
+    align-items: center;
+}
 .botao {
     background-color: rgba(0,0,0,.50);
     border: none;
@@ -96,4 +100,8 @@ header nav a:hover{
     height: 100%;
     width:100%;
     display:none;
+}
+
+.carrosel-filmes{
+    margin-top: 5px;
 }
